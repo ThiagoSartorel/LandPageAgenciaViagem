@@ -5,7 +5,7 @@ function HeroHome() {
   const [videoModalOpen, setVideoModalOpen] = useState(false);
 
   return (
-    <section className="relative bg-black bg-opacity-60">
+    <section className="relative bg-black bg-opacity-40">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 pt-32 pb-12 md:p-20 ">
         {/* Section header */}
         <div className="text-center pb-12 md:pb-16">
@@ -13,7 +13,7 @@ function HeroHome() {
             <img src={logo} className="mx-auto mb-8" />
           </div>
 
-          <div className="max-w-3xl mx-auto bg-slate-100 p-6 bg-opacity-80 rounded-xl">
+          <div className="max-w-3xl mx-auto bg-slate-100 p-6 bg-opacity-90 rounded-xl">
             <p
               className="text-xl text-gray-600 mb-8"
               data-aos="zoom-y-out"
