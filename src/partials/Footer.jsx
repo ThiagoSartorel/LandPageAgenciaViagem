@@ -39,7 +39,7 @@ function Footer() {
 
         <div className="text-center py-4 border-t border-gray-200 bg-gray-900 bg-opacity-90 shadow-xl">
           <div className="text-sm text-white mr-4">
-            © Todos os direitos reservados.
+          Thiago Sartorel  © Todos os direitos reservados.
           </div>
         </div>
       </div>
