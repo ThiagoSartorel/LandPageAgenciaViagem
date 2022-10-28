@@ -11,6 +11,7 @@ function HeroHome() {
         <div className="text-center pb-12 md:pb-16">
           <div className="w-ful">
             <img src={logo} className="mx-auto mb-8" />
+            <h1 class="h2 mb-4 text-white">Kviagens</h1>
           </div>
 
           <div className="max-w-3xl mx-auto bg-slate-100 p-6 bg-opacity-90 rounded-xl">
